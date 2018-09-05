@@ -1,0 +1,15 @@
+{
+  "name": "sakurachan",
+  "version": "1.0.0",
+  "description": "The nicest bot around",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick",
+  "license": "ISC",
+  "dependencies": {
+    "bindings": "file:node_modules/bindings",
+    "discord.js": "^11.2.1"
+  }
+}
